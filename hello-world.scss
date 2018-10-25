@@ -1,0 +1,12 @@
+// This Hello World shows a good example of how variables and mixins are used in SCSS
+$greetingText: 'Hello World';
+
+@mixin greetingStyle($font-color, $font-size) {
+  color: $font-color;
+  font-size: $font-size;
+}
+
+body::before {
+  content: $greetingText;
+  @include greetingStyle(black, 28px);
+}
