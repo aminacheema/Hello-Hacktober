@@ -14,6 +14,13 @@ namespace HelloWorld
                 "Once I've been here at Hacktoberfest 2018 !!!",
             };
             myMessage.ForEach(m => Console.WriteLine(m));
+            
+            
+            /* Alternative method to write 'Hello World!' */
+            /*
+            Console.WriteLine("Hello World!");
+            Console.Readline();
+            */
         }
     }
 }
