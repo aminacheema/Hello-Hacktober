@@ -3,7 +3,7 @@
 
 # In[16]:
 
-
+printf("Welcome to world of 0s and 1s")
 import datetime
 now = datetime.datetime.now()
 hour = now.hour
