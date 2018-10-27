@@ -1,1 +1,3 @@
-alert('Hello, world!');
+var begin = "Hello";
+var end = "World!";
+alert(begin+" "+end);
