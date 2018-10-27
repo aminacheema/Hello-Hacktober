@@ -4,7 +4,7 @@
 
  
  
- This repository is for people who are starting to program and want to participate in hacktoberfest  or just want to contribute.
+ This repository is for people who are starting to program and want to participate in hacktoberfest or just want to contribute.
 
 
 
