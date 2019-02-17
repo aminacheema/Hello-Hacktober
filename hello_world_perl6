@@ -1,0 +1,8 @@
+#!/usr/bin/perl
+
+# Very recommended to use this:
+use strict;
+use warnings;
+
+# Print a message.
+print "Hello, World!\n";
