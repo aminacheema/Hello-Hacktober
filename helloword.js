@@ -1,5 +1,0 @@
-helloWord = () => {
-
-alert("Hello word");
-
-}

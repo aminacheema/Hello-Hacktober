@@ -1,9 +1,0 @@
-#include <stdio.h>
-#include <iostream.h>
- 
-              int main() {
- 
-               cout>>("Halo Gan!");
-               return 0;
-               }
-}

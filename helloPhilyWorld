@@ -1,5 +1,0 @@
-const [greeting, name] = ["Hello everyone", "PhillyG];
-
-let message = `${greeting}, It's me; ${name}`;
-
-console.log(message);

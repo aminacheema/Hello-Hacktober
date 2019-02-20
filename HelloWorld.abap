@@ -1,3 +1,0 @@
-Report HelloWorld.
-
-Write:/ 'HelloWorld'.

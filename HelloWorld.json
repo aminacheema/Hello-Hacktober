@@ -1,4 +1,0 @@
-// Hello World in Jason
-
-!greeting.
-+!greeting : true <- .print("Hello World").
