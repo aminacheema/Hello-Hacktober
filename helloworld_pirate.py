@@ -1,1 +1,0 @@
-print("Ahoy freshwater grumetes")

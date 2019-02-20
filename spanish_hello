@@ -1,5 +1,0 @@
-def spanish_hello
-  print "Hola, mundo!"
-end
-
-spanish_hello

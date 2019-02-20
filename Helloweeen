@@ -1,4 +1,0 @@
-var mask = "Hello World... ";
-var hat = "Happy Halloween...";
-var hacktober = mask+hat;
-console.log(hacktober);

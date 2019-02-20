@@ -1,1 +1,0 @@
-println("Hello world for scala script")

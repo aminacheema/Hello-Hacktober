@@ -1,2 +1,0 @@
-escreval "ola mundo
-"

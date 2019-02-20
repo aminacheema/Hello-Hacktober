@@ -1,2 +1,0 @@
-const helloWord = function(){ alert("Hello word!");}
-helloWord();
